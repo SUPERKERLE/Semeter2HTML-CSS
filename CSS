@@ -1,0 +1,26 @@
+/* CSS Document */
+
+.centre-text {
+Color: cornflowerblue;
+text-align: center;
+font-family: "palatino linotype", "Book antiqua", Palatino, Serif;
+Font-size: 35px
+}
+
+body{
+font-family: "palatino linotype", "Book antiqua", Palatino, Serif;
+
+}
+
+.Introinfo {
+text-align: center
+
+}
+
+.Ourcollections {
+text-align: center
+}
+
+.LC {
+text-align: right
+}
