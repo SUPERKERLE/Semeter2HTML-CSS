@@ -1,26 +1,39 @@
 /* CSS Document */
 
 .centre-text {
-Color: cornflowerblue;
-text-align: center;
-font-family: "palatino linotype", "Book antiqua", Palatino, Serif;
-Font-size: 35px
+	Color: cornflowerblue;
+	text-align: center;
+	font-family: "palatino linotype", "Book antiqua", Palatino, Serif;
+	Font-size: 35px
 }
 
 body{
-font-family: "palatino linotype", "Book antiqua", Palatino, Serif;
+	font-family: "palatino linotype", "Book antiqua", Palatino, Serif;
 
 }
 
 .Introinfo {
-text-align: center
-
+	text-align: center;
+	font-size: 20px;
+	
 }
 
-.Ourcollections {
-text-align: center
+.Ourcollection {
+	text-align: center;
+	Color: aquamarine;
+	font-size: 25px;
 }
 
 .LC {
-text-align: right
+	float:right;
+	width: 50%
+	
 }
+.rapide{
+	float:left;
+	width: 50%;
+}
+.vintage{
+	text-align: center;
+}
+.vintage
