@@ -11,6 +11,9 @@ body{
 	font-family: "palatino linotype", "Book antiqua", Palatino, Serif;
 
 }
+.WholeBody{
+	
+}
 
 .Introinfo {
 	text-align: center;
@@ -22,18 +25,38 @@ body{
 	text-align: center;
 	Color: aquamarine;
 	font-size: 25px;
+	padding-top: 30px;
 }
 
 .LC {
 	float:right;
-	width: 50%
+	padding-left: 150px;
+	padding-right: 150px
 	
 }
 .rapide{
 	float:left;
-	width: 50%;
+	padding-left: 150px;
+	padding-rigth: 150px;
+	
+	
 }
 .vintage{
 	text-align: center;
 }
-.vintage
+
+.boeing{
+	float: left;
+	padding-top: 50px;
+	padding-left: 150px;
+	padding-right: px;
+}
+.bleriot{
+	float: right;
+	padding-top: 27px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.footer{
+	text-align: center;
+	}
