@@ -30,14 +30,14 @@ body{
 
 .LC {
 	float:right;
-	padding-left: 150px;
-	padding-right: 150px
+	padding-left: 12.8%;
+	padding-right: 12.8%;
 	
 }
 .rapide{
 	float:left;
-	padding-left: 150px;
-	padding-rigth: 150px;
+	padding-left: 12.8%;
+	padding-right: 12.8%;
 	
 	
 }
@@ -47,16 +47,16 @@ body{
 
 .boeing{
 	float: left;
-	padding-top: 50px;
-	padding-left: 150px;
-	padding-right: px;
+	padding-top: 1.5%;
+	padding-left: 12.8%;
+	padding-right: 12.8%;
 }
 .bleriot{
 	float: right;
-	padding-top: 27px;
-	padding-left: 150px;
-	padding-right: 150px;
+	padding-left: 12.8%;
+	padding-right: 12.8%;
 }
 .footer{
 	text-align: center;
+	padding-top: 15%
 	}
